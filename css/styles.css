@@ -2,7 +2,9 @@ html {
     --color-magenta-: #cf005a;
 }
 
-
+h1, p {
+    font-family: 'Lato', sans-serif;
+}
 
 .footer {
     font-family: 'Lato', sans-serif;
