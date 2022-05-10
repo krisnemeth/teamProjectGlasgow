@@ -1,3 +1,10 @@
-footer {
-    background-color: #cf005a;
+html {
+    --color-magenta-: #cf005a;
+}
+
+
+
+.footer {
+    font-family: 'Lato', sans-serif;
+    background-color: var(--color-magenta-) ;
 }
